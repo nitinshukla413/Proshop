@@ -1,4 +1,4 @@
-#ProShop eCommerce Platform
+# ProShop eCommerce Platform
 eCommerce platform built with the MERN stack & Redux.
 
 This is the course project for my MERN eCommerce From Scratch course
@@ -9,7 +9,7 @@ This is the course project for my MERN eCommerce From Scratch course
 * Product reviews and ratings
 * Top products carousel
 * Product pagination
-*Product search feature
+* Product search feature
 * User profile with orders
 * Admin product management
 * Admin user management
